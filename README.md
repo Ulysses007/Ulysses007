@@ -29,6 +29,6 @@
 - 👷 Analista de sistemas | 🏤 
 - 💻 Dev Flutter e ADVPL.
 - 🎓 Gosto de estar aprendendo e compartilhando conhecimento.
-- ☕ mAtualmente estou aprimorando meus conchecimentos em **Dart**/**Flutter**.
+- ☕ Atualmente estou aprimorando meus conchecimentos em **Dart**/**Flutter**.
 - 🌎 ulysses_zt9@hotmail.com
 
