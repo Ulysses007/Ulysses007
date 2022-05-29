@@ -25,3 +25,10 @@
   ![Snake animation](https://github.com/Ulysses007/Ulysses007/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+- 👷 Analista de sistemas | 🏤 
+- 💻 Dev Flutter e ADVPL.
+- 🎓 Gosto de estar aprendendo e compartilhando conhecimento.
+- ☕ mAtualmente estou aprimorando meus conchecimentos em **Dart**/**Flutter**.
+- 🌎 ulysses_zt9@hotmail.com
+
